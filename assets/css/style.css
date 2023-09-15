@@ -92,7 +92,7 @@ main {
     margin-top: 47px;
 }
 /* Footer */
-#social-network {
+#social-networks {
     text-align: center;
     padding: 20px 0;
     display: flex;
@@ -100,7 +100,7 @@ main {
     list-style-type: none;
 }
 
-#social-network i {
+#social-networks i {
     font-size: 160%;
     padding: 5%;
     color: #3a3a3a;
